@@ -8,7 +8,8 @@
 #### 🔭  I specialize in using the following Tools and Technologies :
 
 - Java(Multithreading, Collections, Java 8)
-- Spring Framework(Springboot, Spring Cloud, Spring Security) for REST Microservices
+- Spring Framework(Spring Core, Springboot, Spring Security) for REST Microservices
+- Spring Cloud (Zuul, Eureka/Consul, Hystrix Resilience Library)
 - Hibernate(JPA)
 - Database RDBMS(SQL, Mysql and SQL Server)
 - NoSQL(MongoDB)

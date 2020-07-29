@@ -14,7 +14,7 @@
 - Database RDBMS(SQL, Mysql and SQL Server)
 - NoSQL(MongoDB)
 - Caches(Redis)
-- JMS Messaging Service/Queues (ActiveMQ and Kakfa)
+- JMS Messaging Service/Queues (ActiveMQ and Kafka)
 - Practioner of Agile /Scrum Based Software Development
 - AWS - Amazon Web Services 
 - Architecting End to End Solutions with High and Level Designs

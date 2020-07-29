@@ -7,7 +7,7 @@
 
 #### 🔭  I specialize in using the following Tools and Technologies :
 
-- Java(Multithreading, Collections, Java 8)
+- Java(Core, Java 8, Multithreading, Collections)
 - Spring Framework(Spring Core, Springboot, Spring Security) for REST Microservices
 - Spring Cloud (Zuul, Eureka/Consul, Hystrix Resilience Library)
 - Hibernate(JPA)

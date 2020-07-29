@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there this is Er. Varun Dublish👋
 I am an Experienced Backend Software Developer. I have 10+ years of Experience in development of highly scalable Enterprise Class Softwares and Microservices in various domains like E-commerce, Travel and Real Estates.
 
 I specialize in using the following Tools and Technologies :
@@ -11,6 +11,10 @@ I specialize in using the following Tools and Technologies :
 - Caches(Redis), 
 - JMS Messaging Service/Queues (ActiveMQ and Kakfa)
 
+
+- 📫 How to reach me: Connect with me on [Linkedin](https://www.linkedin.com/in/varundublish/)
+- 🔭 I’m currently working on a personal technical Blog [Java Reboots!](https://javareboots.code.blog), where i want to share my knowledge about Java and Related Technologies with all of you.
+ 
 
 
 

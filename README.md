@@ -1,7 +1,11 @@
-### Hi there, this is Er. Varun Dublish👋
-I am an Experienced Software Developer with 10+ years of Experience in designing and backend development of highly scalable Enterprise level Softwares, Distributed Systems and Microservices. I have developed softwares in various domains like E-commerce, Travel, Real Estates and IT Services Based Comapnies.
+### Hi there 👋 , this is Er. Varun Dublish 😄  
 
-#### I specialize in using the following Tools and Technologies :
+#### 🌱  About Me
+- I am a Experienced Software Developer with 10+ years of Experience in designing and backend software development.
+- I specialise in the development of highly scalable Enterprise level Softwares, Distributed Systems and Microservices. 
+- I have developed software in various domains like E-commerce, Travel, Real Estates and IT Services Based Companies.
+
+#### 🔭  I specialize in using the following Tools and Technologies :
 
 - Java(Multithreading, Collections, Java 8)
 - Spring Framework(Springboot, Spring Cloud, Spring Security) for REST Microservices
@@ -13,14 +17,14 @@ I am an Experienced Software Developer with 10+ years of Experience in designing
 - Practioner of Agile /Scrum Based Software Development
 - AWS - Amazon Web Services 
 - Architecting End to End Solutions with High and Level Designs
-- Good Understanding of Data Structures, Algorithms, Design Patterns, System Designs and Distributed Systems
+- Good understanding of following Concepts : Data Structures, Algorithms, Design Patterns, System Designs and Distributed Systems
 
 
 
 #### 📫  How to reach me: 
 
 - Connect with me on [Linkedin](https://www.linkedin.com/in/varundublish/)
-- 🔭 I’m currently working on a personal technical Blog [Java Reboots!](https://javareboots.code.blog), where i want to share my knowledge about Java and Related Technologies with all of you.
+- A technical Blog [Java Reboots!](https://javareboots.code.blog), where i share my knowledge about Java and Related Technologies with the world.
 
 
 

@@ -1,8 +1,8 @@
 ### Hi there 👋 , this is Er. Varun Dublish 😄  
 
 #### 🌱  About Me
-- I am a Software Developer with good Experience in designing and backend software development.
-- I specialise in the development of highly scalable Enterprise level Softwares, Distributed Systems and Microservices. 
+- I am a Software Developer with good amount of experience in software development.
+- I specialise in the development of highly scalable websites, Enterprise level Softwares, Distributed Systems and Microservices. 
 - I have developed software in various domains like E-commerce, Travel, Real Estates and IT Services Based Companies.
 
 #### 🔭  I specialize in using the following Tools and Technologies :
@@ -14,18 +14,18 @@
 - Database RDBMS(SQL, Mysql and SQL Server)
 - NoSQL(MongoDB)
 - Caches(Redis)
-- JMS Messaging Service/Queues (ActiveMQ and Kafka)
-- Practioner of Agile /Scrum Based Software Development
-- AWS - Amazon Web Services 
-- Architecting End to End Solutions with High and Level Designs
-- Good understanding of following Concepts : Data Structures, Algorithms, Design Patterns, System Designs and Distributed Systems
+- JMS Messaging Service (ActiveMQ and Kafka)
+- Practioner of Agile /Scrum Methodologies
+- Cloud AWS - Amazon Web Services 
+- Architecting End to End Solutions
+- Strong coding Concepts : Data Structures, Algorithms, Design Patterns, System Designs and Distributed Systems
 
 
 
 #### 📫  How to reach me: 
 
-- Connect with me on [Linkedin](https://www.linkedin.com/in/varundublish/)
-- A technical Blog [Java Reboots!](https://javareboots.code.blog), where i share my knowledge about Java and Related Technologies with the world.
+- Connect on [Linkedin](https://www.linkedin.com/in/varundublish/)
+- My tech Blog [Java Reboots!](https://javareboots.code.blog)
 
 
 

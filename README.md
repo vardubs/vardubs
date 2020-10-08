@@ -1,11 +1,11 @@
-### Hi there 👋 , this is Er. Varun Dublish 😄  
+### Hi there 👋 , this is Varun Dublish, Namastey 🙏 
 
 #### 🌱  About Me
 - I am a experienced Software Developer with more than 10+ years of Experience
 - I specialise in the development of highly robust and scalable Microservices, REST APIs, Backend Softwares and Distributed Systems
 - I have worked in companies across various domains and sectors like E-commerce, Travel, Real Estates in Product and IT Services Based Companies.
 
-#### 🔭  I specialize in using the following Tools and Technologies :
+#### 🔭  My Tools and Technologies :
 
 - Core Java(Java 8), Java EE
 - Spring Framework(Spring Core, Springboot, Spring Security)

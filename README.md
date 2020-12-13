@@ -1,32 +1,27 @@
-### Hi there 👋 , this is Varun Dublish, Namastey 🙏 
+###  Namastey 🙏  , this is Varun Dublish from India
 
 #### 🌱  About Me
-- I am a experienced Software Developer with more than 10+ years of Experience
-- I specialise in the development of highly robust and scalable Microservices, REST APIs, Backend Softwares and Distributed Systems
+- I am a experienced Software Developer who specialise in the development of highly robust and scalable Microservices, REST APIs, Backend Softwares and Distributed Systems
 - I have worked in companies across various domains and sectors like E-commerce, Travel, Real Estates in Product and IT Services Based Companies.
 
 #### 🔭  My Tools and Technologies :
 
 - Core Java(Java 8), Java EE
-- Spring Framework(Spring Core, Springboot, Spring Security)
-- Spring Cloud (API Gateway - Zuul, Service Discovery - Eureka/Consul, Circuit Breaker - Hystrix Resilience Library, Centralized Configurations - Cloud Config Server, etc)
-- Spring JDBC, Spring Data, Hibernate(Spring Data JPA)
-- Database : RDBMS(SQL, MySQL and MS-SQL Server),  NoSQL(MongoDB)
-- Distributed Caches (Redis)
-- JMS/AMQP Based Message Brokers (RabbitMQ)
-- Kafka Streaming Platform
-- Follow Agile/Scrum Methodologies with JIRA Sprint Tools
-- AWS - Amazon Web Services Cloud
-- Architecting and Designing End to End Solutions with System Designs, High Level and Low Level Designs
-- Strong Programming Concepts : Data Structures, Algorithms, Design Patterns, SOLID Design principles, OOPs  Design principles, Multithreading, System Designs Basics and Distributed Systems
-
-
+- Spring Framework, Spring Core, Springboot REST APIs and Microservices, Spring Security
+- Spring Cloud (API Gateway - Zuul, Service Discovery - Eureka/Consul, Circuit Breaker - Hystrix Resilience Library, Centralized Configurations - Cloud Config Server)
+- Spring JDBC, Spring Data, Hibernate/JPA
+- Databases : RDBMS(SQL, MySQL, MS-SQL Server),  NoSQL(MongoDB, Redis)
+- Caches (Redis)
+- Message Brokers (RabbitMQ), Kafka
+- Follower of Agile/Scrum Methodologies
+- AWS Cloud
+- Planning, Architecting and Designing End to End Solutions with System Design, High Level and Low Level Designs
+- Strong Coding Concepts : Data Structures, Algorithms, Design Patterns, Microservices, SOLID Design principles, OOPs, Multithreading, System Designs and Distributed Systems
 
 #### 📫  How to reach me: 
 
 - Connect on [Linkedin](https://www.linkedin.com/in/varundublish/)
-- Follow my tech Blog [Java Reboots!](https://javareboots.code.blog)
-
+- Follow my Tech Blog [Java Reboots!](https://javareboots.code.blog)
 
 
 <!--

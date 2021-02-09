@@ -7,7 +7,6 @@
 #### 📫  How to reach me: 
 
 - Connect with on on [Linkedin](https://www.linkedin.com/in/varundublish/)
-- I sometimes like to share some knowledge 🤔 on my Tech Blog [Java Reboots!](https://javareboots.code.blog)
 
 
 <!--

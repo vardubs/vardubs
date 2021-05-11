@@ -1,5 +1,5 @@
 ###  Namastey 🙏, this is Varun. 
-I am a Software Developer who specialises in the design & development of highly scalable Microservices, RESTful APIs and Distributed Systems
+I am a Software Developer who specialises in the design & development of highly scalable websites, microservices and Distributed Systems
 
 <!-- #### 🌱  About Me -->
 

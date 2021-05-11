@@ -1,12 +1,7 @@
-###  Namastey 🙏  , this is Er. Varun Dublish from India
+###  Namastey 🙏, this is Varun. 
+I am a Software Developer who specialises in the design & development of highly scalable Microservices, RESTful APIs and Distributed Systems
 
-#### 🌱  About Me
-- I am a experienced backend Software Developer who specialise in the design, development of highly robust and scalable Microservices, RESTful APIs, Softwares and Distributed Systems
-- I have worked for Product and Service based companies across various domains/sectors like E-commerce, Travel, Real Estates.
-
-#### 📫  How to reach me: 
-
-- Connect with on on [Linkedin](https://www.linkedin.com/in/varundublish/)
+<!-- #### 🌱  About Me -->
 
 
 <!--

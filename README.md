@@ -1,5 +1,5 @@
-###  Namastey 🙏, this is Varun. 
-I am a Software Developer who specialises in the design & development of highly scalable websites, microservices and Distributed Systems
+###  Namastey 🙏, this is Varun Dublish. 
+I am a Software Developer who specialises in the design & development of highly scalable websites, microservices and distributed backend systems
 
 <!-- #### 🌱  About Me -->
 

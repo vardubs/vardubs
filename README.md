@@ -1,5 +1,4 @@
-###  Namastey 🙏, this is Er. Varun Dublish. 
-I am a Software Engineer who loves to develop highly scalable backend platforms that power websites, microservices, APIs, Mobile Apps and various other distributed systems.
+###  Hi, this is Er. Varun Dublish. I am a passionate Backend Software Engineer. 😄
 
 <!-- #### 🌱  About Me -->
 
